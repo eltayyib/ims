@@ -1,2 +1,4 @@
-Django 2.0.7
-pip
+django==3.1.1
+pillow==7.2.0
+pytz==2020.1
+asgiref==3.2.10
